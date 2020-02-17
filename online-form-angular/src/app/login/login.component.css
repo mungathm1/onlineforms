@@ -1,0 +1,17 @@
+.btn-block {
+  background-color: #1166bb;
+  width: 100%;
+  color: white;
+}
+
+.signin-break-wrapper::before {
+  background-color: #cbcbcb;
+  bottom: 0;
+  content: "";
+  height: 1px;
+  left: 0;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}

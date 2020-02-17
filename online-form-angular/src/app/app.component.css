@@ -1,0 +1,31 @@
+.bg-href {
+  color: white;
+}
+
+.app-header-style {
+  background-color: #a70b0b;
+}
+
+.app-header {
+  justify-content: space-between;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 5;
+  box-shadow: 0 3px 5px -1px rgba(0, 0, 0, 0.2),
+    0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12);
+}
+
+.angular-with-newlines {
+  white-space: pre;
+}
+
+.app-footer {
+  justify-content: space-between;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 5;
+  box-shadow: 0 3px 5px -1px rgba(0, 0, 0, 0.2),
+    0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12);
+}

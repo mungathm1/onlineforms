@@ -1,0 +1,13 @@
+table {
+  width: 80%;
+}
+
+.btn-block {
+  background-color: #f0c14b;
+}
+
+.div-center {
+  align-content: center;
+  align-items: center;
+  vertical-align: middle;
+}
